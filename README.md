@@ -43,6 +43,9 @@ Choose individual checks or run a full scan from the menu.
 ##  Notes
 
 Admin Privileges: Some checks (e.g., registry, shares) require running as Administrator.
+
 Customization: Adjust thresholds (e.g., outdated software versions) based on your needs.
+
 Limitations: This is a basic scanner; for advanced vuln scanning, combine with tools like Nessus or OpenVAS.
-This tool gives you a Blue Team-focused view of your Windows system’s security posture, highlighting areas to fix. Let me know if you want to enhance specific checks!
+
+This tool gives you a Blue Team-focused view of your Windows system’s security posture, highlighting areas to fix. 
